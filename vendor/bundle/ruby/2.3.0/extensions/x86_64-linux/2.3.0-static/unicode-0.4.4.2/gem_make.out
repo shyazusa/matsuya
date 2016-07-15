@@ -1,0 +1,17 @@
+current directory: /home/takei/file/api/imas-songs/vendor/bundle/ruby/2.3.0/gems/unicode-0.4.4.2/ext/unicode
+/home/takei/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20160229-21194-1bo34bo.rb extconf.rb
+creating Makefile
+
+current directory: /home/takei/file/api/imas-songs/vendor/bundle/ruby/2.3.0/gems/unicode-0.4.4.2/ext/unicode
+make "DESTDIR=" clean
+
+current directory: /home/takei/file/api/imas-songs/vendor/bundle/ruby/2.3.0/gems/unicode-0.4.4.2/ext/unicode
+make "DESTDIR="
+compiling unicode.c
+compiling wstring.c
+compiling ustring.c
+linking shared-object unicode/unicode_native.so
+
+current directory: /home/takei/file/api/imas-songs/vendor/bundle/ruby/2.3.0/gems/unicode-0.4.4.2/ext/unicode
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unicode_native.so ./.gem.20160229-21194-1liagw7/unicode

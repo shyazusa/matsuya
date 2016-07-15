@@ -1,0 +1,7 @@
+.bundle
+Gemfile.lock
+coverage
+pkg/*
+vendor/*
+*.gem
+pattern-match
